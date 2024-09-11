@@ -31,13 +31,13 @@ The analysis focuses on several key aspects:
 - Team contributions: Evaluating the role of team strategies and car performance in driver success.
 
 The questions explored here are :
-- [x] Drivers with the most podium finishes.
-- [x] Aggregated lap times by driver and track
-- [ ] What factors most influence race outcomes?
+- &check; Drivers with the most podium finishes.
+- &check; Aggregated lap times by driver and track
+- &cross; ~~What factors most influence race outcomes?~~ [weather data not available]
 - [ ] How does qualifying position correlate with race finishing position?
 - [ ] What is the average pit stop time for each team, and how does it affect race performance?
 - [ ] Which drivers have the most consistent lap times across different tracks?
-- [ ] How do weather conditions impact race results and driver performance?
+- &cross; ~~How do weather conditions impact race results and driver performance?~~ [weather data not available]
 - [ ] Which tracks have the highest and lowest average finishing times across all seasons?
 - [ ] What is the impact of starting grid position on the likelihood of finishing in the top 3?
 - [ ] How does the performance of specific teams vary across different circuits?
